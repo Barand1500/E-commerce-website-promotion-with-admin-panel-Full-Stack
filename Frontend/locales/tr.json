@@ -1,0 +1,54 @@
+{
+  "baslik": {
+    "anasayfa": "Ana Sayfa",
+    "ozellikler": "Özellikler",
+    "fiyatlandirma": "Fiyatlandırma",
+    "hakkimizda": "Hakkımızda",
+    "iletisim": "İletişim"
+  },
+  "anasayfa": {
+    "sloganUst": "Kaliteli tasarımı herkes için erişilebilir kılıyoruz",
+    "sloganAlt": "Daha az, ama daha iyi",
+    "baslik": "E-ticaret siteleriniz için",
+    "baslikVurgu": "mükemmel çözümler",
+    "aciklama": "Minimalist ve kullanıcı dostu e-ticaret platformu ile işinizi kolayca büyütün.",
+    "butonKesfet": "Keşfet",
+    "butonIletisim": "İletişime Geç",
+    "yeniUrunler": "Yeni & Öne Çıkanlar",
+    "kategoriler": "Kategoriler",
+    "hakkimizda": "Hakkımızda",
+    "hakkimizdaMetin": "Daha fazla şeye değil, daha iyi seçimlere ihtiyacımız var. Kaliteli ürünler arayışımızda sürdürülebilirlik, dayanıklı malzemeler ve güzel tasarımı önemsiyoruz.",
+    "blog": "Blog",
+    "blogAciklama": "Blogumuz yaratıcı fikirler ve ilhamla dolu.",
+    "devaminiOku": "Devamını Oku"
+  },
+  "ozellikler": {
+    "baslik": "Özellikler",
+    "aciklama": "Modern e-ticaret platformumuzun sunduğu tüm özellikler"
+  },
+  "fiyatlandirma": {
+    "baslik": "Fiyatlandırma",
+    "aciklama": "Size uygun planı seçin"
+  },
+  "iletisim": {
+    "baslik": "İletişim",
+    "aciklama": "Bizimle iletişime geçin",
+    "isim": "İsim",
+    "eposta": "E-posta",
+    "mesaj": "Mesajınız",
+    "gonder": "Gönder"
+  },
+  "hakkimizda": {
+    "baslik": "Hakkımızda",
+    "aciklama": "Daha az almak, ama daha iyisini almak isteyen insanlar için bir mağaza.",
+    "vizyon": "Vizyonumuz",
+    "vizyonMetin": "Her ev için yüksek kaliteli ürünlerin benzersiz bir koleksiyonunu sunuyoruz."
+  },
+  "altbilgi": {
+    "aciklama": "Daha az almak, ama daha iyisini almak isteyen insanlar için bir mağaza.",
+    "hizliLinkler": "Hızlı Linkler",
+    "musteriHizmetleri": "Müşteri Hizmetleri",
+    "sss": "Sıkça Sorulan Sorular",
+    "telif": "Tüm hakları saklıdır."
+  }
+}

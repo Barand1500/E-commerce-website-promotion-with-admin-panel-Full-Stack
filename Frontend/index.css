@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #FFFFFF;
+  color: #1A1A1A;
+}
+
+@layer utilities {
+  .baslik-1 {
+    @apply text-4xl md:text-5xl lg:text-6xl font-baslik font-normal tracking-tight;
+  }
+  
+  .baslik-2 {
+    @apply text-3xl md:text-4xl lg:text-5xl font-baslik font-normal tracking-tight;
+  }
+  
+  .baslik-3 {
+    @apply text-2xl md:text-3xl lg:text-4xl font-baslik font-normal;
+  }
+  
+  .metin-buyuk {
+    @apply text-lg md:text-xl text-gri-600 leading-relaxed font-sans;
+  }
+  
+  .metin-normal {
+    @apply text-base text-gri-700 leading-relaxed font-sans;
+  }
+  
+  .buton-vurgu {
+    @apply font-vurgu font-semibold tracking-wide uppercase text-sm;
+  }
+  
+  .sayi-kurumsal {
+    @apply font-vurgu font-bold tabular-nums;
+    letter-spacing: -0.02em;
+  }
+  
+  .gecis-yumu {
+    @apply transition-all duration-300 ease-in-out;
+  }
+}

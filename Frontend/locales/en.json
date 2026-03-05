@@ -1,0 +1,54 @@
+{
+  "baslik": {
+    "anasayfa": "Home",
+    "ozellikler": "Features",
+    "fiyatlandirma": "Pricing",
+    "hakkimizda": "About",
+    "iletisim": "Contact"
+  },
+  "anasayfa": {
+    "sloganUst": "We make great design available to everyone",
+    "sloganAlt": "Buy less, but better",
+    "baslik": "Perfect solutions for",
+    "baslikVurgu": "your e-commerce",
+    "aciklama": "Grow your business easily with a minimalist and user-friendly e-commerce platform.",
+    "butonKesfet": "Explore",
+    "butonIletisim": "Get in Touch",
+    "yeniUrunler": "New & Noteworthy",
+    "kategoriler": "Categories",
+    "hakkimizda": "About Us",
+    "hakkimizdaMetin": "We don't need more things, we need better choices. In our ongoing search for quality products we value sustainability, durable materials and beautiful design.",
+    "blog": "Blog",
+    "blogAciklama": "Our blog is full of creative ideas and inspiration.",
+    "devaminiOku": "Read More"
+  },
+  "ozellikler": {
+    "baslik": "Features",
+    "aciklama": "All features of our modern e-commerce platform"
+  },
+  "fiyatlandirma": {
+    "baslik": "Pricing",
+    "aciklama": "Choose the plan that suits you"
+  },
+  "iletisim": {
+    "baslik": "Contact",
+    "aciklama": "Get in touch with us",
+    "isim": "Name",
+    "eposta": "Email",
+    "mesaj": "Your Message",
+    "gonder": "Send"
+  },
+  "hakkimizda": {
+    "baslik": "About",
+    "aciklama": "A store for people that want to buy less, but better.",
+    "vizyon": "Our Vision",
+    "vizyonMetin": "We offer a unique collection of high end items for every home."
+  },
+  "altbilgi": {
+    "aciklama": "A store for people that want to buy less, but better.",
+    "hizliLinkler": "Quick Links",
+    "musteriHizmetleri": "Customer Care",
+    "sss": "FAQs",
+    "telif": "All rights reserved."
+  }
+}
