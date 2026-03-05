@@ -7,6 +7,7 @@ import Ozellikler from './pages/Ozellikler';
 import Fiyatlandirma from './pages/Fiyatlandirma';
 import Iletisim from './pages/Iletisim';
 import Hakkimizda from './pages/Hakkimizda';
+import SSS from './pages/SSS';
 
 const App: React.FC = () => {
   return (
@@ -17,8 +18,9 @@ const App: React.FC = () => {
             <Route path="/" element={<AnaSayfa />} />
             <Route path="/ozellikler" element={<Ozellikler />} />
             <Route path="/fiyatlandirma" element={<Fiyatlandirma />} />
-            <Route path="/iletisim" element={<Iletisim />} />
             <Route path="/hakkimizda" element={<Hakkimizda />} />
+            <Route path="/sss" element={<SSS />} />
+            <Route path="/iletisim" element={<Iletisim />} />
           </Routes>
         </Duzen>
       </Router>

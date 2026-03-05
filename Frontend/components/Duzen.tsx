@@ -16,6 +16,7 @@ const Duzen: React.FC<DuzenProps> = ({ children }) => {
     { isim: t('baslik.ozellikler'), yol: '/ozellikler' },
     { isim: t('baslik.fiyatlandirma'), yol: '/fiyatlandirma' },
     { isim: t('baslik.hakkimizda'), yol: '/hakkimizda' },
+    { isim: t('baslik.sss'), yol: '/sss' },
     { isim: t('baslik.iletisim'), yol: '/iletisim' },
   ];
 
